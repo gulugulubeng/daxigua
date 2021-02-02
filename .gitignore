@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# ignore files
+*.class
+*.log
+*.lock
+
+# ignore folder
+.idea
+.git
