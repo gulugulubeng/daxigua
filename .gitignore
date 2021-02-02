@@ -4,6 +4,7 @@
 *.class
 *.log
 *.lock
+.gitignore
 
 # ignore folder
 .idea
